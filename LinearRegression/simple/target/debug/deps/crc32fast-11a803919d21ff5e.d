@@ -1,0 +1,11 @@
+/Users/g/Code/MachineLearningInRust/LinearRegression/simple/target/debug/deps/libcrc32fast-11a803919d21ff5e.rmeta: /Users/g/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.4.2/src/lib.rs /Users/g/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.4.2/src/baseline.rs /Users/g/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.4.2/src/combine.rs /Users/g/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.4.2/src/specialized/mod.rs /Users/g/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.4.2/src/table.rs
+
+/Users/g/Code/MachineLearningInRust/LinearRegression/simple/target/debug/deps/libcrc32fast-11a803919d21ff5e.rlib: /Users/g/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.4.2/src/lib.rs /Users/g/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.4.2/src/baseline.rs /Users/g/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.4.2/src/combine.rs /Users/g/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.4.2/src/specialized/mod.rs /Users/g/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.4.2/src/table.rs
+
+/Users/g/Code/MachineLearningInRust/LinearRegression/simple/target/debug/deps/crc32fast-11a803919d21ff5e.d: /Users/g/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.4.2/src/lib.rs /Users/g/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.4.2/src/baseline.rs /Users/g/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.4.2/src/combine.rs /Users/g/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.4.2/src/specialized/mod.rs /Users/g/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.4.2/src/table.rs
+
+/Users/g/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.4.2/src/lib.rs:
+/Users/g/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.4.2/src/baseline.rs:
+/Users/g/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.4.2/src/combine.rs:
+/Users/g/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.4.2/src/specialized/mod.rs:
+/Users/g/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.4.2/src/table.rs:
